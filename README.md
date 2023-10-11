@@ -1,12 +1,12 @@
-Flutter Code Base
+#Flutter Code Base
 
-This is an example of code structure I use when working on a project from scratch using Flutter. The structure may vary slightly depending on the state management and project scope.
+###This is an example of code structure I use when working on a project from scratch using Flutter. The structure may vary slightly depending on the state management and project scope.
 
-How to run the project:
-Development Flavor:
+###How to run the project:
+####Development Flavor:
 flutter run --flavor development -t lib/main_development.dart
 
-Production Flavor:
+####Production Flavor:
 flutter run --flavor production -t lib/main_production.dart
 
 In this project, there are several files and folders to pay attention to:
