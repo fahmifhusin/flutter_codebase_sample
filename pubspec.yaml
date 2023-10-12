@@ -73,10 +73,10 @@ flavorizr:
        applicationId: com.codebase.dev
      ios:
        bundleId: com.codebase.dev
-  production:
-    app:
-      name: Production
-    android:
-      applicationId: com.codebase
-    ios:
-      bundleId: com.codebase
+   production:
+     app:
+       name: Production
+     android:
+       applicationId: com.codebase
+     ios:
+       bundleId: com.codebase
